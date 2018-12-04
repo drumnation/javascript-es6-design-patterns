@@ -1,0 +1,33 @@
+{
+  "name": "javascript-es6-design-patterns",
+  "version": "0.0.1",
+  "description": "Accumulated JS Design Patterns to Experiment With",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drumnation/javascript-es6-design-patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns"
+  ],
+  "author": "David Mieloch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drumnation/javascript-es6-design-patterns/issues"
+  },
+  "homepage": "https://github.com/drumnation/javascript-es6-design-patterns#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/node": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "eslint": "^5.9.0",
+    "prettier-eslint": "^8.8.2"
+  }
+}
